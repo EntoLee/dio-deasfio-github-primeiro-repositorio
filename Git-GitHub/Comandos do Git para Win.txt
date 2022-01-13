@@ -1,0 +1,7 @@
+git config
+Defini seu nome de usuário e endereço de e-mail.
+
+git config --global user.name "seu nome"
+git config --global user.email seuemail@gmail.com
+
+git init
